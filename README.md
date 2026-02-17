@@ -1,0 +1,1 @@
+# Basit-Say-Tahmin
